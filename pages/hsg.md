@@ -28,4 +28,4 @@ Variation is the norm
 3. Your story may be someone's reality. Do sharks often attack humans? Should I pee on a jellyfish sting? Do all Chinese know kungfu? If a user has no other experience, your story is their only frame of reference. 
 4. Stories are consequential. Religioius stories inspire the lives of billions.
 5. Frozen inspires children to dress & act like Elsa. The Godfather inspired mobsters to behave more honorably. James Bond inspires the dress & behavior of young men.
-6. Stories are consequential. Jaws inspires people to be afraid of sharks. The Dark Knight inspires Joker wannabes and copycat crimes. Taxi Driver inspired John Hinckley Jr. to attempt to assassinate Ronald Regan.
+6. Stories are consequential. Jaws inspires people to be afraid of sharks. The Dark Knight inspires Joker wannabes and copycat crimes. Taxi Driver inspired John Hinckley Jr. to attempt to assassinate Ronald Regan. Films that normalize boys stalking girls as romantic.
