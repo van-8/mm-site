@@ -21,7 +21,7 @@ Emotions are constructed
 
 Variation is the norm
 
-## Logical Consequences
+## Fundamentals
 
 1. The audience is an active user, not a passive viewer. They bring their priors, predictions, and affect to your content.
 2. Storytellers are experience engineers. We scaffold user's brains with priors about the world 

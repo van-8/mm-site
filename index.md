@@ -6,10 +6,11 @@ description: "Personal site for filmmaker Van YANG."
 permalink: /
 ---
 
-# 楊崗 Van YANG is a Chinese-American director, writer, and cinematographer.
+## 楊崗 Van YANG is a Chinese-American director, writer, and cinematographer.
 
 He is currently a filmmaker in the neuroscience lab of Dr. Lisa Feldman Barrett creating cinematic lectures.
 
+## Image Gallery PLACEHOLDER 
 
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart
