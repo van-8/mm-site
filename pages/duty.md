@@ -1,8 +1,14 @@
+Place in Guidelines?
+
+
 # Duty of Care
 
 Storytellers scaffold people's reality. With this great power comes great responsibility, legally called [duty of care.]().
 
 Civilization is a fragile, interdependent edifice of professionals who provide & protect non-professionals.
+
+“Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.”
+Mark Twain
 
 
 1. Realistic depictions 
