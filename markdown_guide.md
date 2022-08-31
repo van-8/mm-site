@@ -22,6 +22,8 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+Gallery `{% include image-gallery.html folder="/uploads/album" %}`
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
