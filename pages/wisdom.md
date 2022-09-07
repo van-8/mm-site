@@ -5,7 +5,6 @@ nav_order: 4
 description: "Wisdom"
 ---
 
-I want to show my daughter the world, the shimmering diversity of humanity. Teach her to love and help others. I show others what I've seen.d
 
 ## Wisdom to Meditate on
 

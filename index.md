@@ -12,6 +12,8 @@ He is currently a filmmaker in the neuroscience lab of Dr. Lisa Feldman Barrett 
 
 ## Image Gallery PLACEHOLDER 
 
+Gallery `{% include image-gallery.html folder="/gallery" %}`
+
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart
 

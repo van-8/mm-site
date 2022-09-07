@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guidelines
+title: 中国 / U.S.
 nav_order: 3
 description: "China / U.S. Differences"
 ---

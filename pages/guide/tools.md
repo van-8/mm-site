@@ -15,7 +15,7 @@ The brain does not have "circuits" or "parts" for sadness or happiness. There is
 
 **Perceive***
 
-Brain states cannot be recognized, they can only be perceived. {ref}`users` guess at each others brain state.
+Brain states cannot be recognized, they can only be perceived. `users` guess at each others brain state.
 
 **Nudge**
 
