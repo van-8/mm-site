@@ -18,7 +18,7 @@ innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, c
 ### Dislikes
 deliberate unkindness, inconsiderate color palettes, selfish energy, the screeching whine of desperation, injustice, shoelaces, snake-oil salesmen, soulless superficiality, mosquitos
 
-#### Pronounciation
+#### Pronunciation
 楊崗  ji̯ɑŋ kɑŋ 
 
 Van YANG væn ji̯ɑŋ
