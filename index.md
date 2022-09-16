@@ -8,11 +8,9 @@ permalink: /
 
 ## 楊崗 Van YANG is a Chinese-American director, writer, and cinematographer.
 
-He is currently a filmmaker in the neuroscience lab of Dr. Lisa Feldman Barrett creating cinematic lectures.
+He is currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
 
-## Image Gallery 
-
-Gallery `{% include image-gallery.html folder="/gallery" %}`
+`{% include image-gallery.html folder="/gallery" %}`
 
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart
