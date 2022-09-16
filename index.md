@@ -10,7 +10,7 @@ permalink: /
 
 He is currently a filmmaker in the neuroscience lab of Dr. Lisa Feldman Barrett creating cinematic lectures.
 
-## Image Gallery PLACEHOLDER 
+## Image Gallery 
 
 Gallery `{% include image-gallery.html folder="/gallery" %}`
 
