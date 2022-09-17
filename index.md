@@ -11,22 +11,29 @@ permalink: /
 Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
 
 
-## Work
+## Portfolio
+
 ![](gallery/janegoodallweb1.jpg)
-"Dr. Jane Goodall in China"
+#### Dr. Jane Goodall
 {: .text-center}
-
-
-
-![](gallery/lululemonCherry6.jpg)
-"lululemon in Beijing" 
-{: .text-center}
-
-
 
 ![](gallery/nanaelegant2.jpg)
-#### 歐陽娜娜 Ouyang Nana in Montréal
+#### 歐陽娜娜 Ouyang Nana
 {: .text-center}
+
+![](gallery/lululemonCherry6.jpg)
+#### lululemon in Beijing 
+{: .text-center}
+
+![](gallery/DestinationCanadagodfreygaonwt4.jpg)
+#### Godfrey Gao
+{: .text-center}
+
+![](gallery/JetLiTea4.png)
+#### Jet Li
+
+![](gallery/audiweb1.jpg)
+#### Audi designers in China
 
 
 ### Likes
