@@ -13,19 +13,19 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 
 ## Work
 ![](gallery/janegoodallweb1.jpg)
-###### Dr. Jane Goodall in China 
+##### Dr. Jane Goodall in China 
 {: .text-center}
 
 
 
 ![](gallery/lululemonCherry6.jpg)
-###### lululemon in Beijing 
+##### lululemon in Beijing 
 {: .text-center}
 
 
 
 ![](gallery/nanaelegant2.jpg)
-###### 歐陽娜娜 Ouyang Nana in  Montréal
+##### 歐陽娜娜 Ouyang Nana in  Montréal
 {: .text-center}
 
 
