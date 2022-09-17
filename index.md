@@ -17,7 +17,10 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 ![](gallery/janegoodallweb1.jpg)
 #### Dr. Jane Goodall
 {: .text-center}
-  
+<pre>
+
+</pre>
+
 ![](gallery/nanaelegant2.jpg)
 #### 歐陽娜娜 Ouyang Nana
 {: .text-center}
@@ -32,10 +35,11 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 
 ![](gallery/JetLiTea4.png)
 #### Jet Li
+{: .text-center}
 
 ![](gallery/audiweb1.jpg)
 #### Audi designers in China
-
+{: .text-center}
 
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart, peace
