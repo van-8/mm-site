@@ -12,15 +12,16 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 
 
 ## Portfolio
-
+{: .text-center}
+  
 ![](gallery/janegoodallweb1.jpg)
 #### Dr. Jane Goodall
 {: .text-center}
-
+  
 ![](gallery/nanaelegant2.jpg)
 #### 歐陽娜娜 Ouyang Nana
 {: .text-center}
-
+  
 ![](gallery/lululemonCherry6.jpg)
 #### lululemon in Beijing 
 {: .text-center}
