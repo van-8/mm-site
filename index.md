@@ -24,21 +24,29 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 ![](gallery/nanaelegant2.jpg)
 #### 歐陽娜娜 Ouyang Nana
 {: .text-center}
-  
-![](gallery/lululemonCherry6.jpg)
-#### lululemon in Beijing 
-{: .text-center}
+<pre>
 
+</pre>
+![](gallery/lululemonCherry6.jpg)
+#### lululemon 
+{: .text-center}
+<pre>
+
+</pre>
 ![](gallery/DestinationCanadagodfreygaonwt4.jpg)
 #### Godfrey Gao
 {: .text-center}
+<pre>
 
+</pre>
 ![](gallery/JetLiTea4.png)
 #### Jet Li
 {: .text-center}
+<pre>
 
+</pre>
 ![](gallery/audiweb1.jpg)
-#### Audi designers in China
+#### Audi
 {: .text-center}
 
 ### Likes
