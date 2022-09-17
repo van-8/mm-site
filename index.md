@@ -6,11 +6,13 @@ description: "Personal site for filmmaker Van YANG."
 permalink: /
 ---
 
-## 楊崗 Van YANG is a Chinese-American director, writer, and cinematographer.
+## Chinese-American director, writer, and cinematographer.
 
-He is currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
+Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
 
-`{% include image-gallery.html folder="/gallery" %}`
+![](gallery/janegoodallweb1.jpg)
+
+Dr. Jane Goodall when she visited China.
 
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart
