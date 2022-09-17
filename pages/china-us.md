@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 中国 / U.S.
-nav_order: 3
+nav_order: 4
 description: "China / U.S. Differences"
 ---
 

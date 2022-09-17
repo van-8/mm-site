@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wisdom
-nav_order: 4
+nav_order: 3
 description: "Wisdom"
 ---
 
@@ -47,3 +47,10 @@ I would never offend my host by making preferences. Neither would I offend my co
 Training is about skill development, not winning or losing. Handicap training. [John Danaher](https://www.youtube.com/watch?v=RznwbW_hdoM)
 
 Without strategy, execution is aimless. Without execution, strategy is useless. -Morris Chang, founder of TSMC
+
+
+## 仁
+
+仁
+
+[ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)

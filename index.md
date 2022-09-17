@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Bio
 nav_order: 1
 description: "Personal site for filmmaker Van YANG."
 permalink: /
@@ -16,17 +16,17 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 ###### Dr. Jane Goodall in China 
 {: .text-center}
 
+
+
 ![](gallery/lululemonCherry6.jpg)
 ###### lululemon in Beijing 
 {: .text-center}
 
+
+
 ![](gallery/nanaelegant2.jpg)
 ###### 歐陽娜娜 Ouyang Nana in  Montréal
 {: .text-center}
-
-| Likes        | Dislikes          | 
-|:-------------|:------------------|
-| innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart, peace | deliberate unkindness, inconsiderate color palettes, selfish energy, the screeching whine of desperation, injustice, shoelaces, snake-oil salesmen, soulless superficiality, mosquitos, imperialism | 
 
 
 ### Likes
