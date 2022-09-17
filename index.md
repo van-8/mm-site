@@ -12,7 +12,7 @@ Currently a filmmaker in the [neuroscience lab](https://www.affective-science.or
 
 ![](gallery/janegoodallweb1.jpg)
 
-Dr. Jane Goodall when she visited China.
+###### Dr. Jane Goodall when she visited China. `{text-align: center}`
 
 ### Likes
 innocent laughter, bright eyes that smile, *thunk* of opening a fresh coconut, cultivated intelligence, heartbeat of the drum, citations, sizzling food, beautiful voices, songs sung with soaring heart
