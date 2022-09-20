@@ -1,12 +1,6 @@
 # Personal Website of Van YANG
 
-Jekyll. No plugins.
-
-Personal intro, with CV.
-
-Personal notes.
-
-Blog?
+Open notebook of my thoughts and a way to continuously learn coding & OSS.
 
 ---
 
