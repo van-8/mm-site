@@ -6,7 +6,7 @@ description: "Thoughts Scratchpad"
 ---
 
 # Scratchpad
-Random thoughts that need a digital location for pondering.
+Unrefined random thoughts.
 
 ## Concepts that need words
 
