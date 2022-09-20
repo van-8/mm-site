@@ -8,6 +8,14 @@ description: "Thoughts Scratchpad"
 # Scratchpad
 Unrefined random thoughts.
 
+## Testing Markdown collapsed blocks
+
+<details><summary>1st level</summary><blockquote>
+  <details><summary>2nd level summary</summary><blockquote>
+    3rd level detail :smile:
+  </blockquote></details>
+</blockquote></details>
+
 ## Concepts that need words
 
 explainerrhea Glut of "explainer" content consisting of superficial research without real expertise and stock footage. Same usefulness as gossip. No depth. Creates the illusion of knowledge. No subtly or details. Johnny Harris and John Oliver are examples. VPN whores.
