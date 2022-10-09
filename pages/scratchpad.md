@@ -22,6 +22,12 @@ explainerrhea: Glut of "explainer" content consisting of superficial research wi
 
 ## Ubuntu
 
+## Military Industrial Complex
+
+## Fairytale Industrial Complex
+
+## Attention Industrial Complex
+
 
 ## Themes
 Parsimony
