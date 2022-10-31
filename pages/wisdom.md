@@ -28,14 +28,16 @@ description: "Wisdom"
 ### John F Kennedy
 "Let us examine our attitude toward peace itself. Too many of us think it is impossible. Too many think it unreal. But that is a dangerous, defeatist belief. It leads to the conclusion that war is inevitable, that mankind is doomed, that we are gripped by forces we cannot control.
 
-"We need not accept that view. Our problems are man-made — therefore, they can be solved by man. And man can be as big as he wants. No problem of human destiny is beyond human beings. Man's reason and spirit have often solved the seemingly unsolvable — and we believe they can do it again."
+"We need not accept that view. Our problems are man-made — therefore, they can be solved by man. And man can be as big as he wants. No problem of human destiny is beyond human beings. Man's reason and spirit have often solved the seemingly unsolvable — and we believe they can do it again."  
+<br/> 
+
 ["Peace Speech 1963"](https://youtu.be/0fkKnfk4k40?t=365)
 
 <details><summary>Attainable Peace</summary><blockquote>
   Let us focus instead on a more practical, more attainable peace-- based not on a sudden revolution in human nature but on a gradual evolution in human institutions--on a series of concrete actions and effective agreements which are in the interest of all concerned. There is no single, simple key to this peace--no grand or magic formula to be adopted by one or two powers. Genuine peace must be the product of many nations, the sum of many acts. It must be dynamic, not static, changing to meet the challenge of each new generation. For peace is a process--a way of solving problems.  
-  
+  <br/>
   With such a peace, there will still be quarrels and conflicting interests, as there are within families and nations. World peace, like community peace, does not require that each man love his neighbor--it requires only that they live together in mutual tolerance, submitting their disputes to a just and peaceful settlement. And history teaches us that enmities between nations, as between individuals, do not last forever. However fixed our likes and dislikes may seem, the tide of time and events will often bring surprising changes in the relations between nations and neighbors.  
-  
+  <br/>
   So let us persevere. Peace need not be impracticable, and war need not be inevitable. By defining our goal more clearly, by making it seem more manageable and less remote, we can help all peoples to see it, to draw hope from it, and to move irresistibly toward it.
 </blockquote></details>
 
