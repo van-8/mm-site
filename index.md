@@ -8,7 +8,7 @@ permalink: /
 
 ## 楊崗 Van is a Chinese-American director, writer, and cinematographer.
 
-Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
+Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Prof. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
 
 
 ## Portfolio
