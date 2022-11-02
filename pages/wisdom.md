@@ -32,7 +32,6 @@ description: "Wisdom"
 
 "We need not accept that view. Our problems are man-made — therefore, they can be solved by man. And man can be as big as he wants. No problem of human destiny is beyond human beings. Man's reason and spirit have often solved the seemingly unsolvable — and we believe they can do it again."  
 <br/> 
-
 ["Peace Speech 1963"](https://youtu.be/0fkKnfk4k40?t=365)
 
 <details><summary>Attainable Peace</summary><blockquote>
