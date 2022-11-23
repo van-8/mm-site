@@ -76,8 +76,8 @@ even when it comes at the beginning](.) of the line.
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| ok           | good `oreo`      | hmm   |
+| ok           | good `out` drop | yum  |
 
 ### There's a horizontal rule below this.
 
