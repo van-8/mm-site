@@ -43,3 +43,9 @@ Mark Twain
 2. Realistic consequences of actions
 3. Dispel stereotypes, not enforce
 4. Responsible craftsmanship. Shelley Duvall by Stanely Kubrick bat scene took 127 takes. “Going through day after day of excruciating work was almost unbearable,” said Duvall to Rolling Stone in 1980. “Jack Nicholson’s character had to be crazy and angry all the time. And in my character, I had to cry 12 hours a day, all day long, the last nine months straight, five or six days a week.” [How Playing The Joker Changed Heath Ledger For Good](https://www.looper.com/141474/how-playing-the-joker-changed-heath-ledger-for-good/).
+
+
+### Teaching Methods
+
+1. Synthetic.Data + Syn.Results, then Real.Results. Helps brains see possibilities, priming for understanding."If this, therefore this. If this, therefore this. But this..."
+2. Structured variation.
