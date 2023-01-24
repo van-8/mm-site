@@ -21,7 +21,7 @@ description: "Wisdom"
 11. Everyone has their own story.
 12. Anger is letting someone control your life.
 13. All models are wrong, but some are useful.
-
+14. Work towards a better world and earn glory from the effort. 
 
 ## Memorable Quotes
 
