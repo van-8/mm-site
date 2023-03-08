@@ -6,7 +6,7 @@ description: "Personal site for filmmaker Van YANG."
 permalink: /
 ---
 
-## 楊崗 Van is a Chinese-American director, writer, and cinematographer.
+## 楊崗 Van is a Chinese-American director, writer, and cinematographer born in Taiwan.
 
 Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Prof. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
 
