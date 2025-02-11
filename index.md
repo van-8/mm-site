@@ -8,7 +8,9 @@ permalink: /
 
 ## 楊崗 Van is a Chinese-American director, writer, and cinematographer born in Taiwan.
 
-Currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Prof. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/).
+His passion for environmental sustainability, music, and philosophy has led him to create work for Dr. Jane Goodall, United Nations FCCC, lululemon, Lenovo, Jet Li, Alibaba, Tencent, Destination Canada, Perú Travel, and the Bill & Melinda Gates Foundation.
+
+He's currently a filmmaker in the [neuroscience lab](https://www.affective-science.org/) of [Prof. Lisa Feldman Barrett](https://lisafeldmanbarrett.com/) trying to understand how human brains & bodies manifest emotions, actions, and other features of a mind.
 
 
 ## Portfolio
