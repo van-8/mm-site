@@ -6,7 +6,7 @@ description: "Personal site for filmmaker Van YANG."
 permalink: /
 ---
 
-## 楊崗 Van is a Chinese-American director, writer, and cinematographer born in Taiwan.
+## 楊崗 Van YÁNG is a Chinese-American director, writer, and cinematographer born in Taiwan.
 
 His passion for environmental sustainability, music, and philosophy has led him to create work for Dr. Jane Goodall, United Nations FCCC, lululemon, Lenovo, Jet Li, Alibaba, Tencent, Destination Canada, Perú Travel, and the Bill & Melinda Gates Foundation.
 
