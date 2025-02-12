@@ -9,19 +9,20 @@ description: "Wisdom"
 ## Wisdom for Everyday Living
 
 1. Brevity respects people's time.
-2. Don't get mad at physics.
-3. Children are brutally honest until we teach them not to be.
-4. Kindness & respect sometimes supercede honesty.
-5. Deal with one moment at a time.
-6. If you never doubt your beliefs, you'll be wrong a lot.
-7. People who are wrong don't KNOW they're wrong.
-8. Manage your desires.
-9. Indulge your desires.
-10. Everyone has an accent.
-11. Everyone has their own story.
-12. Anger is letting someone control your life.
-13. All models are wrong, but some are useful.
-14. Work towards a better world and earn glory from the effort. 
+1. Don't get mad at physics.
+1. Children are brutally honest until we teach them not to be.
+1. Kindness & respect sometimes supercede honesty.
+1. Deal with one moment at a time.
+1. If you never doubt your beliefs, you'll be wrong a lot.
+1. People who are wrong don't KNOW they're wrong.
+1. Do you like to be right by always questioning yourself or by ignoring new information?
+1. Manage your desires.
+1. Indulge your desires.
+1. Everyone has an accent.
+1. Everyone has their own story.
+1. Anger is letting someone control your life.
+1. All models are wrong, but some are useful.
+1. Work towards a better world and earn glory from the effort. 
 
 ## Memorable Quotes
 

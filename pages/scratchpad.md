@@ -18,9 +18,6 @@ Unrefined random thoughts.
 
 ## Concepts that need words
 
-explainerrhea Glut of "explainer" content consisting of superficial research without real expertise and stock footage. Same usefulness as gossip. No depth. Creates the illusion of knowledge. No subtly or details. Johnny Harris and John Oliver are examples. VPN salesman.
-=======
-
 explainerrhea: Glut of "explainer" content consisting of superficial research without real expertise and stock footage. Same usefulness as gossip. No depth. Creates the illusion of knowledge. No subtly or details. Johnny Harris and John Oliver are examples. May be well-intentioned, but lack expertise, thus spreading amateur information.
 
 ## Ubuntu
@@ -30,8 +27,6 @@ explainerrhea: Glut of "explainer" content consisting of superficial research wi
 ## Fairytale Industrial Complex
 
 ## Attention Industrial Complex
-
->>>>>>> 4cce788c69782cf871c9483c79f62059682055e3
 
 
 ## Themes
@@ -66,9 +61,9 @@ https://en.wikipedia.org/wiki/Offensive_realism
 ## Memorable Comedy
 
 - Monty Python
+- South Park
 - Serenity
 - Parks & Rec
-- South Park
 - [I am the very model of a modern major general!](https://www.youtube.com/watch?v=hlTisI_HSgw)
 - comedy songs
 
