@@ -2,7 +2,7 @@
 layout: default
 title: Bio
 nav_order: 1
-description: "Personal site for filmmaker Van YANG."
+description: "Personal site for filmmaker Van YÁNG."
 permalink: /
 ---
 
