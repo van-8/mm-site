@@ -18,6 +18,7 @@ Inspired by [Apple's Human Interface Guidelines](https://developer.apple.com/des
 1. <details><summary>Brains use the concepts they have, called priors, to construct their reality.</summary>
     1. The audience is an active user, not a passive viewer. They bring their priors, predictions, and affect to your story.
     1. Storytellers are experience engineers. We scaffold users' brains with priors about the world.
+    1. Don't hide important things. Squid Game is about capitalism killing everyone so a few live, but people miss the point.
   </details>
 1. Brains have a nature that requires nurture.
 1. Emotions are constructed, not cartoons.
