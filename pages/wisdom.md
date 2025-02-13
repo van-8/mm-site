@@ -8,6 +8,7 @@ description: "Wisdom"
 
 ## Wisdom for Everyday Living
 
+1. 能者多劳
 1. Brevity respects people's time.
 1. Don't get mad at physics.
 1. Children are brutally honest until we teach them not to be.
@@ -67,7 +68,7 @@ Be the last to speak. Give everyone the chance to be heard, to contribute.
 
 ### Vigdís Finnbogadóttir
 I would never offend my host by making preferences. Neither would I offend my countrymen by saying 'What is the best place I have ever visited in the country.' Wherever there is hospitality, warmth, and politeness, well you remember that for the quality of it." 
-[Vigdís Finnbogadóttir](https://www.youtube.com/watch?v=FoRn-qWMvWA) [pronunciation](https://upload.wikimedia.org/wikipedia/commons/f/fd/Is-Vigdis_finnbogadottir.oga).  President of Iceland 1980-1996, 1st elected female leader in Europe.
+[Vigdís Finnbogadóttir](https://www.youtube.com/watch?v=FoRn-qWMvWA) President of Iceland 1980-1996, 1st elected female leader in Europe.
 
 ### Jenson Huang
 "Vision matters. But I like the word **perspective** because it makes it possible for anyone to have one. You see the world differently than someone else." [Jenson Huang](https://youtu.be/Xn1EsFe7snQ?t=359) founder nVidia
