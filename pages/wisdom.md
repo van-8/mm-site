@@ -23,6 +23,7 @@ description: "Wisdom"
 1. Anger is letting someone control your life.
 1. All models are wrong, but some are useful.
 1. Work towards a better world and earn glory from the effort. 
+1. Talk is cheap, send patches. //FFmpeg, 2024.2.28.19:44
 
 ## Memorable Quotes
 
